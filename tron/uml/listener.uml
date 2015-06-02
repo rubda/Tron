@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="100.0">se.liu.ida.rubda680.jakbi869.tddc69.tron.Arena</node>
+    <node x="574.5" y="0.0">se.liu.ida.rubda680.jakbi869.tddc69.tron.ArenaListener</node>
+    <node x="579.4375" y="959.0">se.liu.ida.rubda680.jakbi869.tddc69.tron.Graphics.TronComponent</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="se.liu.ida.rubda680.jakbi869.tddc69.tron.Arena" target="se.liu.ida.rubda680.jakbi869.tddc69.tron.ArenaListener">
+      <point x="220.0" y="-404.5" />
+      <point x="0.0" y="25.0" />
+    </edge>
+    <edge source="se.liu.ida.rubda680.jakbi869.tddc69.tron.Graphics.TronComponent" target="se.liu.ida.rubda680.jakbi869.tddc69.tron.Arena">
+      <point x="-56.0" y="-79.0" />
+      <point x="635.4375" y="934.0" />
+      <point x="440.0" y="934.0" />
+      <point x="0.0" y="404.5" />
+    </edge>
+    <edge source="se.liu.ida.rubda680.jakbi869.tddc69.tron.Graphics.TronComponent" target="se.liu.ida.rubda680.jakbi869.tddc69.tron.ArenaListener">
+      <point x="56.0" y="-79.0" />
+      <point x="747.4375" y="934.0" />
+      <point x="890.5" y="934.0" />
+      <point x="890.5" y="75.0" />
+      <point x="717.0" y="75.0" />
+      <point x="57.0" y="25.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.7616534740545294" x="445.5" y="558.5" />
+  <SelectedNodes>
+    <node>se.liu.ida.rubda680.jakbi869.tddc69.tron.Arena</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
