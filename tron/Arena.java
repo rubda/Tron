@@ -1,16 +1,17 @@
-package se.liu.ida.rubda680.jakbi869.tddc69.tron;
+package tron;
 
 
-import se.liu.ida.rubda680.jakbi869.tddc69.tron.PowerUps.Invincible;
-import se.liu.ida.rubda680.jakbi869.tddc69.tron.PowerUps.PowerUp;
-import se.liu.ida.rubda680.jakbi869.tddc69.tron.PowerUps.RemoveTrail;
-import se.liu.ida.rubda680.jakbi869.tddc69.tron.PowerUps.Teleport;
+
+import tron.PowerUps.PowerUp;
+import tron.PowerUps.Invincible;
+import tron.PowerUps.RemoveTrail;
+import tron.PowerUps.Teleport;
 
 import java.awt.*;
 import java.util.*;
 import java.util.List;
 
-import static se.liu.ida.rubda680.jakbi869.tddc69.tron.State.*;
+import static tron.State.*;
 
 /**
  * Created with IntelliJ IDEA. User: RubenDas Date: 2013-09-21 Time: 17:57 To change this template use File | Settings | File

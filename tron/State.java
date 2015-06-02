@@ -1,4 +1,4 @@
-package se.liu.ida.rubda680.jakbi869.tddc69.tron;
+package tron;
 
 /**
  * Created with IntelliJ IDEA.

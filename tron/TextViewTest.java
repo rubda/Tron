@@ -1,7 +1,7 @@
-package se.liu.ida.rubda680.jakbi869.tddc69.tron;
+package tron;
 
-import se.liu.ida.rubda680.jakbi869.tddc69.tron.Graphics.TronFrame;
-import se.liu.ida.rubda680.jakbi869.tddc69.tron.Graphics.TronTextView;
+import tron.Graphics.TronFrame;
+import tron.Graphics.TronTextView;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

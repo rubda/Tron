@@ -1,6 +1,6 @@
-package se.liu.ida.rubda680.jakbi869.tddc69.tron;
+package tron;
 
-import se.liu.ida.rubda680.jakbi869.tddc69.tron.PowerUps.PowerUp;
+import tron.PowerUps.PowerUp;
 
 import java.awt.event.KeyEvent;
 import java.util.HashMap;

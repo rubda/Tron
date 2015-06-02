@@ -1,9 +1,9 @@
-package se.liu.ida.rubda680.jakbi869.tddc69.tron.Graphics;
+package tron.Graphics;
 
-import se.liu.ida.rubda680.jakbi869.tddc69.tron.Arena;
-import se.liu.ida.rubda680.jakbi869.tddc69.tron.ArenaListener;
-import se.liu.ida.rubda680.jakbi869.tddc69.tron.Player;
-import se.liu.ida.rubda680.jakbi869.tddc69.tron.PowerUps.PowerUp;
+import tron.Arena;
+import tron.ArenaListener;
+import tron.Player;
+import tron.PowerUps.PowerUp;
 
 import javax.swing.*;
 import java.awt.*;

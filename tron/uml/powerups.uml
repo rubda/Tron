@@ -3,58 +3,58 @@
   <ID>JAVA</ID>
   <OriginalElement />
   <nodes>
-    <node x="774.0" y="354.0">se.liu.ida.rubda680.jakbi869.tddc69.tron.Player</node>
-    <node x="700.645061728395" y="1170.0">se.liu.ida.rubda680.jakbi869.tddc69.tron.Arena</node>
-    <node x="0.0" y="669.5">se.liu.ida.rubda680.jakbi869.tddc69.tron.PowerUps.Teleport</node>
-    <node x="498.0" y="680.5">se.liu.ida.rubda680.jakbi869.tddc69.tron.PowerUps.RemoveTrail</node>
-    <node x="1020.0" y="0.0">se.liu.ida.rubda680.jakbi869.tddc69.tron.PowerUps.PowerUp</node>
-    <node x="240.0" y="680.5">se.liu.ida.rubda680.jakbi869.tddc69.tron.PowerUps.Invincible</node>
+    <node x="774.0" y="354.0">tron.Player</node>
+    <node x="700.645061728395" y="1170.0">tron.Arena</node>
+    <node x="0.0" y="669.5">tron.PowerUps.Teleport</node>
+    <node x="498.0" y="680.5">tron.PowerUps.RemoveTrail</node>
+    <node x="1020.0" y="0.0">tron.PowerUps.PowerUp</node>
+    <node x="240.0" y="680.5">tron.PowerUps.Invincible</node>
   </nodes>
   <notes />
   <edges>
-    <edge source="se.liu.ida.rubda680.jakbi869.tddc69.tron.Arena" target="se.liu.ida.rubda680.jakbi869.tddc69.tron.PowerUps.Invincible">
+    <edge source="tron.Arena" target="tron.PowerUps.Invincible">
       <point x="-293.3333333333335" y="-404.5" />
       <point x="847.3117283950616" y="1140.0" />
       <point x="359.0" y="1140.0" />
       <point x="0.0" y="46.5" />
     </edge>
-    <edge source="se.liu.ida.rubda680.jakbi869.tddc69.tron.Arena" target="se.liu.ida.rubda680.jakbi869.tddc69.tron.PowerUps.Teleport">
+    <edge source="tron.Arena" target="tron.PowerUps.Teleport">
       <point x="-391.1111111111113" y="-404.5" />
       <point x="749.5339506172837" y="1150.0" />
       <point x="110.0" y="1150.0" />
       <point x="0.0" y="57.5" />
     </edge>
-    <edge source="se.liu.ida.rubda680.jakbi869.tddc69.tron.Arena" target="se.liu.ida.rubda680.jakbi869.tddc69.tron.PowerUps.RemoveTrail">
+    <edge source="tron.Arena" target="tron.PowerUps.RemoveTrail">
       <point x="-195.55555555555566" y="-404.5" />
       <point x="945.0895061728394" y="1130.0" />
       <point x="626.0" y="1130.0" />
       <point x="0.0" y="46.5" />
     </edge>
-    <edge source="se.liu.ida.rubda680.jakbi869.tddc69.tron.Arena" target="se.liu.ida.rubda680.jakbi869.tddc69.tron.Player">
+    <edge source="tron.Arena" target="tron.Player">
       <point x="-97.77777777777783" y="-404.5" />
       <point x="1042.867283950617" y="1120.0" />
       <point x="909.6666666666667" y="1120.0" />
       <point x="-271.33333333333326" y="373.0" />
     </edge>
-    <edge source="se.liu.ida.rubda680.jakbi869.tddc69.tron.PowerUps.Teleport" target="se.liu.ida.rubda680.jakbi869.tddc69.tron.PowerUps.PowerUp">
+    <edge source="tron.PowerUps.Teleport" target="tron.PowerUps.PowerUp">
       <point x="0.0" y="-57.5" />
       <point x="110.0" y="304.0" />
       <point x="1040.125" y="304.0" />
       <point x="-140.875" y="142.0" />
     </edge>
-    <edge source="se.liu.ida.rubda680.jakbi869.tddc69.tron.PowerUps.RemoveTrail" target="se.liu.ida.rubda680.jakbi869.tddc69.tron.PowerUps.PowerUp">
+    <edge source="tron.PowerUps.RemoveTrail" target="tron.PowerUps.PowerUp">
       <point x="0.0" y="-46.5" />
       <point x="626.0" y="324.0" />
       <point x="1120.625" y="324.0" />
       <point x="-60.375" y="142.0" />
     </edge>
-    <edge source="se.liu.ida.rubda680.jakbi869.tddc69.tron.Player" target="se.liu.ida.rubda680.jakbi869.tddc69.tron.PowerUps.PowerUp">
+    <edge source="tron.Player" target="tron.PowerUps.PowerUp">
       <point x="-203.5" y="-373.0" />
       <point x="977.5" y="334.0" />
       <point x="1160.875" y="334.0" />
       <point x="-20.125" y="142.0" />
     </edge>
-    <edge source="se.liu.ida.rubda680.jakbi869.tddc69.tron.Arena" target="se.liu.ida.rubda680.jakbi869.tddc69.tron.PowerUps.PowerUp">
+    <edge source="tron.Arena" target="tron.PowerUps.PowerUp">
       <point x="195.55555555555566" y="-404.5" />
       <point x="1336.2006172839506" y="1130.0" />
       <point x="1598.5" y="1130.0" />
@@ -62,7 +62,7 @@
       <point x="1241.375" y="324.0" />
       <point x="60.375" y="142.0" />
     </edge>
-    <edge source="se.liu.ida.rubda680.jakbi869.tddc69.tron.PowerUps.Invincible" target="se.liu.ida.rubda680.jakbi869.tddc69.tron.PowerUps.PowerUp">
+    <edge source="tron.PowerUps.Invincible" target="tron.PowerUps.PowerUp">
       <point x="0.0" y="-46.5" />
       <point x="359.0" y="314.0" />
       <point x="1080.375" y="314.0" />
@@ -71,7 +71,7 @@
   </edges>
   <settings layout="Hierarchic Group" zoom="0.4332166083041521" x="813.5" y="989.5" />
   <SelectedNodes>
-    <node>se.liu.ida.rubda680.jakbi869.tddc69.tron.PowerUps.PowerUp</node>
+    <node>tron.PowerUps.PowerUp</node>
   </SelectedNodes>
   <Categories>
     <Category>Constructors</Category>

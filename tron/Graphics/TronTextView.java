@@ -1,9 +1,9 @@
-package se.liu.ida.rubda680.jakbi869.tddc69.tron.Graphics;
+package tron.Graphics;
 
-import se.liu.ida.rubda680.jakbi869.tddc69.tron.Arena;
+import tron.Arena;
 //This import is used when we need to test TronTextView with Player
-//import se.liu.ida.rubda680.jakbi869.tddc69.tron.Player;
-import se.liu.ida.rubda680.jakbi869.tddc69.tron.State;
+//import tron.Player;
+import tron.State;
 
 /**
  * Created with IntelliJ IDEA. User: RubenDas Date: 2013-09-30 Time: 16:31 To change this template use File | Settings | File

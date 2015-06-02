@@ -1,6 +1,6 @@
-package se.liu.ida.rubda680.jakbi869.tddc69.tron.PowerUps;
+package tron.PowerUps;
 
-import se.liu.ida.rubda680.jakbi869.tddc69.tron.Player;
+import tron.Player;
 
 import java.awt.*;
 

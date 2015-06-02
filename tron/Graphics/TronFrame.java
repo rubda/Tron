@@ -1,8 +1,8 @@
-package se.liu.ida.rubda680.jakbi869.tddc69.tron.Graphics;
+package tron.Graphics;
 
-import se.liu.ida.rubda680.jakbi869.tddc69.tron.Arena;
-import se.liu.ida.rubda680.jakbi869.tddc69.tron.Directions;
-import se.liu.ida.rubda680.jakbi869.tddc69.tron.Player;
+import tron.Arena;
+import tron.Directions;
+import tron.Player;
 
 import javax.swing.*;
 //Obviously we use timer, so this import is not useless.

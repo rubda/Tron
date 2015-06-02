@@ -1,6 +1,6 @@
-package se.liu.ida.rubda680.jakbi869.tddc69.tron;
+package tron;
 
-import se.liu.ida.rubda680.jakbi869.tddc69.tron.Graphics.TronFrame;
+import tron.Graphics.TronFrame;
 
 /**
  * Created with IntelliJ IDEA. User: RubenDas Date: 2013-09-21 Time: 17:59 To change this template use File | Settings | File

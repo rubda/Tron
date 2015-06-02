@@ -1,4 +1,4 @@
-package se.liu.ida.rubda680.jakbi869.tddc69.tron;
+package tron;
 
 /**
  * Created with IntelliJ IDEA. User: RubenDas Date: 2013-09-23 Time: 16:29 To change this template use File | Settings | File
